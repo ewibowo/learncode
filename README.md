@@ -1,6 +1,8 @@
 # Learncode
 
-This repository contains my solutions to LeetCode's [Top Interview Questions - Easy Collection](https://leetcode.com/explore/interview/card/top-interview-questions-easy/).
+This repository contains my solutions to LeetCode's Top Interview Questions
+* [Easy Collection](https://leetcode.com/explore/interview/card/top-interview-questions-easy/).
+* [Medium Collection](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/)
 
 ## About
 
