@@ -8,3 +8,6 @@ This repository contains my solutions to LeetCode's Top Interview Questions
 
 Working through common interview problems to strengthen problem-solving skills and algorithmic thinking.
 
+## Future
+* [Data Structure and Algorithms - Crash Course](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/703/arraystrings/)
+
